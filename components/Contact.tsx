@@ -127,7 +127,7 @@ export default function Contact() {
 
                             {status === "success" && (
                                 <p className="text-green-500 text-sm font-medium text-center bg-green-500/10 py-3 rounded-xl border border-green-500/20">
-                                    Thanks for reaching out! I'll get back to you soon.
+                                    Thanks for reaching out! I&apos;ll get back to you soon.
                                 </p>
                             )}
                             {status === "error" && (

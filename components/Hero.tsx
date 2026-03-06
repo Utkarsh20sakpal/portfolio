@@ -130,10 +130,10 @@ export default function Hero() {
 
                         {/* Floating Code Snippets */}
                         <div className="floating-code-1 absolute top-10 -left-16 md:-left-24 p-2 glass-card border-primary/20 shadow-[0_0_15px_rgba(79,140,255,0.2)] text-xs font-mono text-white/50 z-10 hidden sm:block">
-                            <span className="text-pink-400">const</span> <span className="text-blue-400">dev</span> = <span className="text-green-400">'Utkarsh'</span>;
+                            <span className="text-pink-400">const</span> <span className="text-blue-400">dev</span> = <span className="text-green-400">&apos;Utkarsh&apos;</span>;
                         </div>
                         <div className="floating-code-2 absolute bottom-20 -right-16 md:-right-24 p-2 glass-card border-secondary/20 shadow-[0_0_15px_rgba(124,58,237,0.2)] text-xs font-mono text-white/50 z-10 hidden sm:block">
-                            &lt;<span className="text-purple-400">System</span> <span className="text-blue-300">status</span>=<span className="text-green-400">"online"</span> /&gt;
+                            &lt;<span className="text-purple-400">System</span> <span className="text-blue-300">status</span>=<span className="text-green-400">&quot;online&quot;</span> /&gt;
                         </div>
                     </div>
                 </div>
